@@ -1,2 +1,2 @@
-# react-interview-practice
+# react-practice
 Created with CodeSandbox
